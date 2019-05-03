@@ -1,2 +1,2 @@
 # hello-world
-My firdt repository
+My first repository
